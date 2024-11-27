@@ -55,9 +55,7 @@
       "description": "Description",
       "poster": "https://tool.lvtao.net/pix/400x300/ffffffxc0c0c0/Postert",
       "expiryDate": "2099-12-31"
-    }
-  ],
-  "payment": [
+    },
     {
       "logo": "https://tool.lvtao.net/pix/80x80/ffffffxc0c0c0/Logo",
       "title": "Title",
@@ -72,5 +70,6 @@
       "poster": "https://tool.lvtao.net/pix/400x300/ffffffxc0c0c0/Postert",
       "expiryDate": "2099-12-31"
     }
-  ]
+  ],
+  "payment": []
 }
